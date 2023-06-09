@@ -9,6 +9,8 @@
 }
 #photo-heading{
 	display:flex;
+	text-transform: uppercase;
+	color: white;
 	justify-content: center;
 }
 .animals{
